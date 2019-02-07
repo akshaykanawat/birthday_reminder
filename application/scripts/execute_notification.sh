@@ -1,0 +1,2 @@
+cd /my_apps/birthday_reminder/application
+python check_events.py config_initial.properties
